@@ -14,6 +14,7 @@ Trackoscope Assembly Instructions.PDF contains the step by step instructions on 
 
 ## 3D Printing
 All STL files can be fit on any standard 3D printer (ender 3, prusa mini, ultimaker 3). They can be sliced with Ultimaker Cura, a free slicing software.
+
 <img width="842" alt="image" src="https://github.com/bhamla-lab/Trackoscope/assets/30093976/11eabce7-4d9b-4f47-a9cb-2a900a5f5267">
 
 ### Print Settings/Layout
