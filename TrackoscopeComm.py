@@ -165,7 +165,7 @@ def serial_ports():
 availableport = serial_ports()
 if len(availableport) > 0:
     # ser1 = serial.Serial(availableport[0], 2000000)
-    ser1 = serial.Serial("COM4", 2000000)
+    ser1 = serial.Serial("COM5", 2000000)
     sleep(1)
     ser1.flush()
     sleep(2)
@@ -570,6 +570,8 @@ print("[INFO] starting video stream...")
 vs = VideoStream(src=0)
 sleep(1.5)
 vs.start()
+
+print("camera opened")
 
 init_buttons()
 
