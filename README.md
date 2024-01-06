@@ -50,3 +50,4 @@ DXF files provided are in the inches unit. They can be preppped for laser cuttin
 
 ## The Paper
 Link: Will be posted soon
+Supplementary videos showcasing Trackoscope's abilities can be found in the Supplementary Videos folder.
