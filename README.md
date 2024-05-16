@@ -49,5 +49,6 @@ All STL files can be fit on any standard 3D printer (ender 3, prusa mini, ultima
 DXF files provided are in the inches unit. They can be preppped for laser cutting using a vector modifying software such as Inkscape or Adobe Illustrator. These files are meant for 1/4" material thickness. Files that end in "TAP" have smaller hole sizes for tapping instead of clearance holes to be used with nuts and bolts. The files ending in "Spacer" are optional and can be cut if extra height is needed. There are two motor mount files. Depending on your application, the tall mount can be used.
 
 ## The Paper
-Link: Will be posted soon
-Supplementary videos showcasing Trackoscope's abilities can be found in the Supplementary Videos folder.
+Link: doi.org/10.1101/2024.02.06.579130
+
+Supplementary Files can be found at figshare.com/account/home#/projects/200934
